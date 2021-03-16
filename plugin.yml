@@ -1,0 +1,4 @@
+name: EnderBogen-Plugin
+main: EnderBogenPlugin
+api-version: 1.15
+version: 1.0
